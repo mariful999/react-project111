@@ -1,0 +1,38 @@
+[
+  {
+    "id": 12345,
+    "cover_img": "https://images.unsplash.com/photo-1508919801845-fc2ae1bc2a28?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aW1nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "author": "Jane Doe",
+    "author_img": "https://images.unsplash.com/photo-1693056608200-b64f636f2cd8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGltZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "blog_title": "The Enchanted Garden",
+    "salery": 50045,
+    "read_time": 240
+  },
+  {
+    "id": 67890,
+    "cover_img": "https://images.unsplash.com/photo-1520209759809-a9bcb6cb3241?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "author": "John Smith",
+    "author_img": "https://images.unsplash.com/photo-1560011316-90b2677df5d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGltZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "blog_title": "Mysteries of the Moon",
+    "salery":75220,
+    "read_time": 180
+  },
+  {
+    "id": 24680,
+    "cover_img": "https://images.unsplash.com/photo-1513818433747-5f175a60caee?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8aW1nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "author": "Emily Brown",
+    "author_img": "https://images.unsplash.com/photo-1688386210635-40b5aeeaf82c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGltZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "blog_title": "Lost in Time",
+    "salery": 4220,
+    "read_time": 220
+  },
+  {
+    "id": 13579,
+    "cover_img": "https://images.unsplash.com/photo-1496458590512-56d2688442b1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGltZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "author": "Michael Johnson",
+    "author_img": "https://images.unsplash.com/photo-1686943975152-b959f5f562a6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGltZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "blog_title": "Secrets of the Abyss",
+    "salery":5220,
+    "read_time": 200
+  }
+]
